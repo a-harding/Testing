@@ -1,0 +1,5 @@
+This is a new file
+Made using the "cat" command
+I think I like it more than "echo"
+
+It is more like a text editor
